@@ -1,0 +1,26 @@
+p{
+    color:red;
+    font-family: Arial;
+    font-size: large;
+}
+ div h2
+ {
+    font-size: 60px;
+}
+
+div p a
+{
+   color: green;
+}
+
+div p 
+{
+   color:blue;
+}
+
+div, p 
+{ color:green;}
+a {  font-size: 20px;}
+a.link {  font-size: 30px;}
+div div.capa1, div p.texto {color:red;
+}
