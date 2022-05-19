@@ -1,0 +1,8 @@
+a[class="externo"
+]{
+    color: green;
+}
+
+.externo{
+    font-family: verdana;
+} /*se le da externo al parrafo en color que queremos*/
