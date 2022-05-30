@@ -1,0 +1,41 @@
+#caja1{
+    background-color: red;
+    margin: 0px;
+    }
+
+    #v1{
+        background-color: gray;
+        width: 80px;
+        float: left;
+        }
+    #v2{
+        background-color: gray;
+        float: left;
+     }
+
+    #v3{
+        background-color: gray;
+      
+        float: left;
+                }
+     #v4 {
+        background-color: gray;
+       
+          float: left;}
+    
+     #v5{
+            background-color: gray  ;   
+
+            float: left;
+            }                
+    #v6 {
+       background-color: gray;
+                
+     }    
+     
+     #img{
+         float: left;
+         
+     }
+                    
+    

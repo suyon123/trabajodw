@@ -1,0 +1,110 @@
+main{
+    background-color: gray;
+
+}
+header
+{
+ background-color: violet;
+ height: 150px;
+}
+#n1 {
+ background-color: rgb(195, 247, 195);
+ width: 300px;
+ height: 200px;
+ float: right;
+ margin: 40px;
+ border-right: 1px solid #bbb;
+ }
+
+ #n2 {
+     background-color: rgb(195, 224, 247);
+     height: 150px;
+     float: right;
+     margin: 40px;
+ 
+     }
+
+ 
+ul {
+ list-style-type: none;
+ margin: 0;
+ padding: 0;
+ overflow: hidden;
+ background-color: #333;
+}
+
+li {
+ float: left;
+ border-right: 1px solid #bbb;
+}
+
+li a {
+ display: block;
+ color: whitesmoke;
+     text-align: center;
+ padding: 14px 16px;
+ border-right: none;
+}
+
+
+
+
+ /*nav,#ad --------------------------------------{  
+     float:right;
+     font-size: 20px;
+     height: 150px;
+
+            }*/
+  section{
+ background-color: pink;
+ width: 70%;
+ float: left;
+ margin: 0px;
+}
+
+
+
+footer{
+    background-color: black;
+   height: 70%;
+    font-family: 'Times New Roman', Times, serif; color:blanchedalmond;
+    text-align: center;
+    clear: left;
+ }
+ #titulo {
+    color: red;
+    font-family: 'Times New Roman';
+    text-align: left;
+    font-size: 30px;
+    padding: 20px;
+}
+ 
+#titulo2 {
+ color: black;
+ font-family: 'Times New Roman';
+ text-align: left;
+ font-size: 30px;
+ padding: 0px;
+ top: 60px;
+
+}
+
+#imagen{
+  float: left;
+  width: 100px;
+ }
+ 
+ 
+
+ 
+ 
+
+
+ 
+ 
+ /*nav,#ad {  
+     float:right;
+     font-size: 20px;
+     height: 150px;
+
+            }*/
